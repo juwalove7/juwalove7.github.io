@@ -47,6 +47,7 @@ Notion: https://www.notion.so/5-8ad1de4c11734c038457829c4749ab73  <br>
 ### One-Sheep (가상의 출장 낮잠 서비스)
 기간: 23.01, 1주  <br>
 GitHub: https://github.com/juwalove7/One-Sheep  <br>
+Notion: https://www.notion.so/2-29215f30511140b0aac85fff618adc03  <br>
 
 기술: Node.js, Express, Sequelize, MySQL  <br>
 
