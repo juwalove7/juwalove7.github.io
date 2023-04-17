@@ -19,9 +19,12 @@
   ● 오프셋 기반의 페이지네이션 구현 <br><br>
   
 ## 프로젝트 경험
-### Gol:D (캠핑장 이커머스 서비스)<br><br>
-기간: 23.03, 4주 <br> <br>
-GitHub: https://github.com/juwalove7/Gol-D  <br><br>
+### Gol:D (캠핑장 이커머스 서비스)<br>
+
+기간: 23.03, 4주 <br> 
+
+GitHub: https://github.com/juwalove7/Gol-D  <br>
+
 프로젝트 문서: https://www.notion.so/Gol-D-70ce0153fe7e406aba77fc4667d728fc  <br>
 
 기술: Nest.js, Type-orm
