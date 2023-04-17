@@ -38,6 +38,7 @@ GitHub: https://github.com/juwalove7/Gol-D  <br>
 -	Jest 기반의 단위 테스트 코드 작성
 
 <img src = "https://user-images.githubusercontent.com/118159213/230012876-bce6b22b-7103-44b7-80e0-f85f5b7dcdd8.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232424435-891aefb5-7a37-416c-a01d-6e32fec31091.png">
 <br>
 
 ### Oreo (Bakery Shop 이커머스 서비스)
