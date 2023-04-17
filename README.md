@@ -54,10 +54,10 @@ GitHub: https://github.com/juwalove7/oreo  <br>
 -	팀원 모두의 공통된 데이터 흐름을 파악하기 위한 ERD 설계 및 수정 작업 담당
 -	관리자를 위한 주문 및 회원 목록 조회 API 구현을 통해 유저만이 아닌 다른 측면에서 고민하고 개발
 
-<img src = "https://user-images.githubusercontent.com/118159213/230013102-cbee014f-67fe-4770-87e9-ec1e7877293d.png" width="300" height="300">
-<img src = "https://user-images.githubusercontent.com/118159213/232425137-1b6aca58-a82f-41ef-959e-05fe5c19e965.png" width="300" height="300">
-<img src = "https://user-images.githubusercontent.com/118159213/232425302-4ef82ba7-2192-413b-a8fd-ba380f130bd4.png" width="300" height="300">
-<img src = "https://user-images.githubusercontent.com/118159213/232425489-4a1a1ae4-28b2-4d69-99db-3f7ee604bdaa.png" width="300" height="300">
+<img src = "https://user-images.githubusercontent.com/118159213/230013102-cbee014f-67fe-4770-87e9-ec1e7877293d.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232425137-1b6aca58-a82f-41ef-959e-05fe5c19e965.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232425302-4ef82ba7-2192-413b-a8fd-ba380f130bd4.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232425489-4a1a1ae4-28b2-4d69-99db-3f7ee604bdaa.png">
 <br>
 
 ### One-Sheep (낮잠 캠핑카 대여 서비스)
