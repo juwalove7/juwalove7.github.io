@@ -38,7 +38,6 @@ GitHub: https://github.com/juwalove7/Gol-D  <br>
 -	Jest 기반의 단위 테스트 코드 작성
 
 <img src = "https://user-images.githubusercontent.com/118159213/230012876-bce6b22b-7103-44b7-80e0-f85f5b7dcdd8.png">
-<img src = "https://user-images.githubusercontent.com/118159213/232424435-891aefb5-7a37-416c-a01d-6e32fec31091.png">
 <br>
 
 ### Oreo (Bakery Shop 이커머스 서비스)
@@ -56,6 +55,9 @@ GitHub: https://github.com/juwalove7/oreo  <br>
 -	관리자를 위한 주문 및 회원 목록 조회 API 구현을 통해 유저만이 아닌 다른 측면에서 고민하고 개발
 
 <img src = "https://user-images.githubusercontent.com/118159213/230013102-cbee014f-67fe-4770-87e9-ec1e7877293d.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232425137-1b6aca58-a82f-41ef-959e-05fe5c19e965.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232425302-4ef82ba7-2192-413b-a8fd-ba380f130bd4.png">
+<img src = "https://user-images.githubusercontent.com/118159213/232425489-4a1a1ae4-28b2-4d69-99db-3f7ee604bdaa.png">
 <br>
 
 ### One-Sheep (낮잠 캠핑카 대여 서비스)
