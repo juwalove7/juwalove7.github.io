@@ -21,6 +21,8 @@
 ## 프로젝트 경험
 ### Gol:D (캠핑장 이커머스 서비스)<br>
 
+소개: 내가 원하는 날짜에 캠핑장의 타입을 선택하고 인원수를 입력하여 캠핑장을 예약할 수 있는 서비스
+
 기간: 23.03, 4주 <br> 
 GitHub: https://github.com/juwalove7/Gol-D  <br>
 프로젝트 문서: https://www.notion.so/Gol-D-70ce0153fe7e406aba77fc4667d728fc  <br>
@@ -39,6 +41,9 @@ GitHub: https://github.com/juwalove7/Gol-D  <br>
 <br>
 
 ### Oreo (Bakery Shop 이커머스 서비스)
+
+소개: 내가 원하는 빵을 검색하고 선택하여 주문을 할 수 있는 서비스
+
 기간: 23.02, 1주  <br>
 GitHub: https://github.com/juwalove7/oreo  <br>
 프로젝트 문서: https://www.notion.so/5-8ad1de4c11734c038457829c4749ab73  <br>
@@ -53,6 +58,9 @@ GitHub: https://github.com/juwalove7/oreo  <br>
 <br>
 
 ### One-Sheep (낮잠 캠핑카 대여 서비스)
+
+소개 : 회사의 점심시간 단잠을 자고픈 회사원들을 위한 출장 낮잠 캠핑카 서비스
+
 기간: 23.01, 1주  <br>
 GitHub: https://github.com/juwalove7/One-Sheep  <br>
 프로젝트 문서: https://www.notion.so/2-29215f30511140b0aac85fff618adc03  <br>
