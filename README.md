@@ -35,8 +35,10 @@ GitHub: https://github.com/juwalove7/RIS_Conversion  <br>
 -> 환자에 대한 정보가 중요하기에 데이터의 손실을 막기 위해 여러방면으로 생각하면서 db의 데이터를 건드려야 된다는 것을 깨닫고 그 부분을 고려하면서 작업을 진행했습니다. <br>
 
 
-<img src = "">
-
+<img src = "https://github.com/juwalove7/resume/assets/118159213/9cb4e4de-a5bb-4a99-ace7-151301c10195.png">
+<img src = "https://github.com/juwalove7/resume/assets/118159213/06a18c0d-6a82-49a2-a9a4-2ce0eef8f690.png">
+<img src = "https://github.com/juwalove7/resume/assets/118159213/430a781d-4a93-4045-b864-3f5804245753.png">
+<br>
 
 
 ### LIS 프로젝트(검사 정보 시스템)
@@ -58,7 +60,7 @@ GitHub: https://github.com/juwalove7/HWIF  <br>
 <img src = "https://github.com/juwalove7/resume/assets/118159213/53ee00a1-bb58-4f42-95fe-cfc28c5012af.png">
 <img src = "https://github.com/juwalove7/resume/assets/118159213/2b74ba4c-5ef9-4c0c-a269-cb33c62b0812.png">
 <img src = "https://github.com/juwalove7/resume/assets/118159213/d235545f-585d-4ce5-83e3-5d59317fcec9.png">
-
+<br>
 
 
 ### Gol:D (캠핑장 이커머스 서비스)<br>
