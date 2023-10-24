@@ -45,7 +45,6 @@ GitHub: https://github.com/juwalove7/RIS_Conversion  <br>
 기간: 23.08, 2주 <br> 
 GitHub: https://github.com/juwalove7/HWIF  <br>
 
-
 기술: JAVA, Spring, MYSQL
 
 - jsp를 사용해보며 프론트엔드 기술을 학습
@@ -57,6 +56,8 @@ GitHub: https://github.com/juwalove7/HWIF  <br>
 
 
 <img src = "https://github.com/juwalove7/resume/assets/118159213/53ee00a1-bb58-4f42-95fe-cfc28c5012af.png">
+<img src = "https://github.com/juwalove7/resume/assets/118159213/2b74ba4c-5ef9-4c0c-a269-cb33c62b0812.png">
+<img src = "https://github.com/juwalove7/resume/assets/118159213/d235545f-585d-4ce5-83e3-5d59317fcec9.png">
 
 
 
