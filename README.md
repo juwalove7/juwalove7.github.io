@@ -33,7 +33,8 @@ GitHub: https://github.com/juwalove7/RIS_Conversion  <br>
 -> 테이블과 컬럼의 수가 많고 데이터의 양도 많아서 필요한 정보를 찾기가 쉽지 않았지만 쿼리문을 하나씩 적용해보면서 필요한 정보를 찾고 걸러내는 작업을 하면서 진행함. <br>
 - 처방정보 관리 부분을 맡아서 db의 키 값의 중요성을 익히고 데이터를 어느부분까지 수정하고 삭제할지 고민하면서 작업 진행 <br>
 -> 환자에 대한 정보가 중요하기에 데이터의 손실을 막기 위해 여러방면으로 생각하면서 db의 데이터를 건드려야 된다는 것을 깨닫고 그 부분을 고려하면서 작업을 진행했습니다. <br>
-
+- 사용자 편의를 위해 그리드에서 원클릭으로 데이터를 불러올 수 있도록 설계
+-> 한 페이지에 그리드가 2~3개인 페이지가 있어서 여러 데이터를 가져오는 것에서 원클릭으로 데이터를 가져올 수 있도록 구상하고 페이지 구현을 하였습니다.
 
 <img src = "https://github.com/juwalove7/resume/assets/118159213/9cb4e4de-a5bb-4a99-ace7-151301c10195.png">
 <img src = "https://github.com/juwalove7/resume/assets/118159213/06a18c0d-6a82-49a2-a9a4-2ce0eef8f690.png">
@@ -55,7 +56,6 @@ GitHub: https://github.com/juwalove7/HWIF  <br>
 -> 새로운 기술 스택을 학습하는 것에 방향성을 잡지 못해 많은 어려움을 겪었지만 기초부터 학습하면서 차근히 만들어보며 프로젝트를 제작하기 위해 노력했습니다. <br>
 - jqGrid 사용법을 익히면서 작업 진행 <br>
 -> 프로젝트를 진행하면서 jqGrid를 써서 해야되는 부분에 있어서 찾아보고 익히면서 작업 진행 <br>
-
 
 <img src = "https://github.com/juwalove7/resume/assets/118159213/53ee00a1-bb58-4f42-95fe-cfc28c5012af.png">
 <img src = "https://github.com/juwalove7/resume/assets/118159213/2b74ba4c-5ef9-4c0c-a269-cb33c62b0812.png">
@@ -85,7 +85,6 @@ GitHub: https://github.com/juwalove7/Gol-D  <br>
 -	깃허브 이슈를 사용함으로 개발 진행 상황 파악 및 일정관리 경험 <br>
 ->	팀원들과 각자 맡은 개발의 일정관리를 위해 주 단위로 끊어 이슈를 등록하고 개발이 완료된 것은 closed 함으로 매주 개발의 목표를 설정하고 얼마나 완수하였는지 파악하며 개발 진행함. <br>
 -	Jest 기반의 단위 테스트 코드 작성 <br>
-
 
 <img src = "https://user-images.githubusercontent.com/118159213/230012876-bce6b22b-7103-44b7-80e0-f85f5b7dcdd8.png">
 <br>
